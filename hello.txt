@@ -1,1 +1,3 @@
 hello worldecho qwertyuiop >> qwerty.txt!
+def function2(arg1=1):
+    print("1")
